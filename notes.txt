@@ -1,0 +1,4 @@
+Key take aways:
+
+- Regression testing is used to verify that any changes/updates didn't break existing functionality/behaivor. 
+- If I want to make changes to existing code I need to update the regression test first. 
